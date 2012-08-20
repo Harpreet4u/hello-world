@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-learning git
+learning git controls
+
+Hello how are you ?
